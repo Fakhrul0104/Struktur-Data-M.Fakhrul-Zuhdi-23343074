@@ -6,6 +6,7 @@ Deskripsi singkat tentang proyek Anda. Jelaskan tujuan utama proyek dan masalah 
 
 - [Tentang](#tentang)
 - [Fitur](#fitur)
+- [Demo](#demo)
 - [Instalasi](#instalasi)
 - [Penggunaan](#penggunaan)
 - [Kontribusi](#kontribusi)
@@ -22,18 +23,13 @@ Jelaskan lebih detail mengenai proyek ini, latar belakang, dan alasan mengapa pr
 - Fitur 2: Deskripsi fitur 2
 - Fitur 3: Deskripsi fitur 3
 
-## Instalasi
+## Demo
 
-Instruksi langkah demi langkah untuk menginstal dan menjalankan proyek ini secara lokal.
+Berikut adalah demo dari proyek ini:
 
-1. Langkah pertama: Misalnya, `git clone https://github.com/user/repo.git`
-2. Langkah kedua: Misalnya, `cd repo`
-3. Langkah ketiga: Misalnya, `npm install`
+![Demo Proyek](path/to/your/demo.gif)
 
-## Penggunaan
+Anda dapat mengganti `path/to/your/demo.gif` dengan path ke file GIF yang Anda inginkan. Jika GIF tersebut di-hosting di layanan gambar online seperti Imgur, Anda dapat menggunakan URL langsung ke GIF tersebut. Contoh:
 
-Panduan singkat tentang cara menggunakan proyek ini setelah diinstal.
-
-```bash
-# Contoh perintah untuk menjalankan proyek
-npm start
+```markdown
+![Demo Proyek](https://i.imgur.com/example.gif)
