@@ -1,4 +1,4 @@
-# Nama Proyek
+[[# Nama Proyek
 
 Deskripsi singkat tentang proyek Anda. Jelaskan tujuan utama proyek dan masalah yang ingin dipecahkan.
 
@@ -33,3 +33,4 @@ Anda dapat mengganti `path/to/your/demo.gif` dengan path ke file GIF yang Anda i
 
 ```markdown
 ![Demo Proyek](https://i.imgur.com/example.gif)
+](https://media.giphy.com/media/dRvEZLV0ORAmHT1L5u/giphy.gif?cid=790b7611azdu28qd8ez53bquf98artcu8i5jrpa9aph1tlm3&ep=v1_gifs_trending&rid=giphy.gif&ct=g)]
